@@ -4912,5 +4912,23 @@
     "type": "bow",
     "icon_path": "assets/icons/battle_pass/Season 24/e6ccfc20-a7f8-46cc-90c4-c2dd25d1e5ff.png",
     "created_at": "2025-11-23T21:10:59.015150+00:00"
+  },
+  {
+    "guid": "26ef4baf-07ee-4b03-a53c-15688cfc1a8a",
+    "name": "Arc",
+    "category": "arrows",
+    "subcategory": null,
+    "type": "arrows",
+    "icon_path": "assets/icons/arrows/26ef4baf-07ee-4b03-a53c-15688cfc1a8a.png",
+    "created_at": "2025-12-07T14:41:13.644765+00:00"
+  },
+  {
+    "guid": "186d669b-995b-4205-bb95-64655f06e99e",
+    "name": "Bomb",
+    "category": "arrows",
+    "subcategory": null,
+    "type": "arrows",
+    "icon_path": "assets/icons/arrows/186d669b-995b-4205-bb95-64655f06e99e.png",
+    "created_at": "2025-12-07T14:41:27.847550+00:00"
   }
 ]
