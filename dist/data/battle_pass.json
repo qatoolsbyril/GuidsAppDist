@@ -1978,5 +1978,59 @@
     "type": "bow",
     "icon_path": "assets/icons/battle_pass/Season 24/e6ccfc20-a7f8-46cc-90c4-c2dd25d1e5ff.png",
     "created_at": "2025-11-23T21:10:59.015150+00:00"
+  },
+  {
+    "guid": "db719d6b-68ae-478a-bb22-46ac4ee1fb6e",
+    "name": "Bow Season 27 Legendary",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "bow",
+    "icon_path": "assets/icons/battle_pass/Season 27/db719d6b-68ae-478a-bb22-46ac4ee1fb6e.png",
+    "created_at": "2026-02-09T21:29:26.350781+00:00"
+  },
+  {
+    "guid": "2ce4ef9a-5064-4ebb-8ea4-e2b39c6e5c3a",
+    "name": "Sticker Season 27 No 1",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 27/2ce4ef9a-5064-4ebb-8ea4-e2b39c6e5c3a.png",
+    "created_at": "2026-02-09T21:30:10.419169+00:00"
+  },
+  {
+    "guid": "28a7f6c5-be2f-422b-9bef-c42c3226f80c",
+    "name": "Sticker Season 27 No 2",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 27/28a7f6c5-be2f-422b-9bef-c42c3226f80c.png",
+    "created_at": "2026-02-09T21:30:31.700093+00:00"
+  },
+  {
+    "guid": "a1731695-cace-4a0b-ae47-9955003bf39f",
+    "name": "Sticker Season 27 No 3",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 27/a1731695-cace-4a0b-ae47-9955003bf39f.png",
+    "created_at": "2026-02-09T21:30:50.766337+00:00"
+  },
+  {
+    "guid": "eca4cae4-9c14-40a4-a87f-f436a0f19e6f",
+    "name": "Sticker Season 27 No 4",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 27/eca4cae4-9c14-40a4-a87f-f436a0f19e6f.png",
+    "created_at": "2026-02-09T21:31:07.379332+00:00"
+  },
+  {
+    "guid": "47a60a09-3cae-4daa-a893-14bde7f96fb7",
+    "name": "Sticker Season 27 No 5",
+    "category": "battle_pass",
+    "subcategory": "Season 27",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 27/47a60a09-3cae-4daa-a893-14bde7f96fb7.png",
+    "created_at": "2026-02-09T21:31:21.892202+00:00"
   }
 ]
