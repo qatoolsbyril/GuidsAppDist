@@ -5425,5 +5425,14 @@
     "type": "arrows",
     "icon_path": "assets/icons/arrows/19721ecc-6b2f-4367-b5f4-683ea0709bdb.png",
     "created_at": "2026-02-09T21:32:02.897034+00:00"
+  },
+  {
+    "guid": "bf7496cd-ea06-4d20-bf1b-7a38155c00f2",
+    "name": "Hat Cylinder Green",
+    "category": "battle_pass",
+    "subcategory": "Season 15",
+    "type": "hat",
+    "icon_path": "assets/icons/battle_pass/Season 15/bf7496cd-ea06-4d20-bf1b-7a38155c00f2.png",
+    "created_at": "2026-03-04T14:01:23.740247+00:00"
   }
 ]
