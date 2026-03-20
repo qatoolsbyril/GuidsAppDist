@@ -2041,5 +2041,104 @@
     "type": "hat",
     "icon_path": "assets/icons/battle_pass/Season 15/bf7496cd-ea06-4d20-bf1b-7a38155c00f2.png",
     "created_at": "2026-03-04T14:01:23.740247+00:00"
+  },
+  {
+    "guid": "d6f13fed-7e8c-40a2-adf4-b42b943bbe4c",
+    "name": "Bow Season 29 Legendary",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "bow",
+    "icon_path": "assets/icons/battle_pass/Season 29/d6f13fed-7e8c-40a2-adf4-b42b943bbe4c.png",
+    "created_at": "2026-03-20T08:27:47.665046+00:00"
+  },
+  {
+    "guid": "42fb047d-d6f9-426a-81a9-94ca51eacdcd",
+    "name": "Phrase Famous 34",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "phrases",
+    "icon_path": "assets/icons/battle_pass/Season 29/42fb047d-d6f9-426a-81a9-94ca51eacdcd.png",
+    "created_at": "2026-03-20T08:29:03.429666+00:00"
+  },
+  {
+    "guid": "7806b96a-8ad6-4341-b3f0-60f695fa6bfc",
+    "name": "Phrase Awesomeness 19",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "phrases",
+    "icon_path": "assets/icons/battle_pass/Season 29/7806b96a-8ad6-4341-b3f0-60f695fa6bfc.png",
+    "created_at": "2026-03-20T08:29:22.055901+00:00"
+  },
+  {
+    "guid": "12d86b3e-d25b-4cd1-b7df-35d69f8cd369",
+    "name": "Phrase Insolence 18",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "phrases",
+    "icon_path": "assets/icons/battle_pass/Season 29/12d86b3e-d25b-4cd1-b7df-35d69f8cd369.png",
+    "created_at": "2026-03-20T08:29:37.515018+00:00"
+  },
+  {
+    "guid": "fb5d7545-14f9-4b54-91f2-c4030471cee6",
+    "name": "Phrase Approval 16",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "phrases",
+    "icon_path": "assets/icons/battle_pass/Season 29/fb5d7545-14f9-4b54-91f2-c4030471cee6.png",
+    "created_at": "2026-03-20T08:29:51.859670+00:00"
+  },
+  {
+    "guid": "31feed8b-1f9e-4c7d-9ad9-b25c4703d570",
+    "name": "Phrase Disapproval 13",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "phrases",
+    "icon_path": "assets/icons/battle_pass/Season 29/31feed8b-1f9e-4c7d-9ad9-b25c4703d570.png",
+    "created_at": "2026-03-20T08:30:09.413678+00:00"
+  },
+  {
+    "guid": "96d1dd14-f4b7-4513-b650-6fb3d2b749fa",
+    "name": "Sticker Season 29 No 1",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 29/96d1dd14-f4b7-4513-b650-6fb3d2b749fa.png",
+    "created_at": "2026-03-20T08:30:44.951998+00:00"
+  },
+  {
+    "guid": "5519ab33-72c7-43b0-8039-16708df1694a",
+    "name": "Sticker Season 29 No 2",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 29/5519ab33-72c7-43b0-8039-16708df1694a.png",
+    "created_at": "2026-03-20T08:30:58.557519+00:00"
+  },
+  {
+    "guid": "75549650-1b12-49c7-8aad-ea3b1ba1d259",
+    "name": "Sticker Season 29 No 3",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 29/75549650-1b12-49c7-8aad-ea3b1ba1d259.png",
+    "created_at": "2026-03-20T08:31:10.423932+00:00"
+  },
+  {
+    "guid": "1529d307-8ab2-4075-9189-a693516fef9c",
+    "name": "Sticker Season 29 No 4",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 29/1529d307-8ab2-4075-9189-a693516fef9c.png",
+    "created_at": "2026-03-20T08:31:22.017533+00:00"
+  },
+  {
+    "guid": "756432e9-70d1-4992-8d8d-b35c0b0bf893",
+    "name": "Sticker Season 29 No 5",
+    "category": "battle_pass",
+    "subcategory": "Season 29",
+    "type": "stickers",
+    "icon_path": "assets/icons/battle_pass/Season 29/756432e9-70d1-4992-8d8d-b35c0b0bf893.png",
+    "created_at": "2026-03-20T08:31:34.681228+00:00"
   }
 ]

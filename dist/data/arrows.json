@@ -205,5 +205,14 @@
     "type": "arrows",
     "icon_path": "assets/icons/arrows/19721ecc-6b2f-4367-b5f4-683ea0709bdb.png",
     "created_at": "2026-02-09T21:32:02.897034+00:00"
+  },
+  {
+    "guid": "b15b1e60-44f6-4df8-bdb2-bab576b4aac7",
+    "name": "Poison",
+    "category": "arrows",
+    "subcategory": null,
+    "type": "arrows",
+    "icon_path": "assets/icons/arrows/b15b1e60-44f6-4df8-bdb2-bab576b4aac7.png",
+    "created_at": "2026-03-20T08:32:08.038100+00:00"
   }
 ]
