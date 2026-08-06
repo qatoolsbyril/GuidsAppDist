@@ -214,5 +214,23 @@
     "type": "arrows",
     "icon_path": "assets/icons/arrows/b15b1e60-44f6-4df8-bdb2-bab576b4aac7.png",
     "created_at": "2026-03-20T08:32:08.038100+00:00"
+  },
+  {
+    "guid": "a7c3e1f2-4b5d-6e8f-9012-3456789abcde",
+    "name": "Elemental2",
+    "category": "arrows",
+    "subcategory": null,
+    "type": "arrows",
+    "icon_path": "assets/icons/arrows/a7c3e1f2-4b5d-6e8f-9012-3456789abcde.png",
+    "created_at": "2026-08-05T15:41:36.462588+00:00"
+  },
+  {
+    "guid": "b0e6b87c-973c-405c-812b-dbe8df85645d",
+    "name": "Elemental",
+    "category": "arrows",
+    "subcategory": null,
+    "type": "arrows",
+    "icon_path": "assets/icons/arrows/b0e6b87c-973c-405c-812b-dbe8df85645d.png",
+    "created_at": "2026-08-05T15:41:59.452936+00:00"
   }
 ]
